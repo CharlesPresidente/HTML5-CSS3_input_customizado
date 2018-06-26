@@ -1,7 +1,6 @@
-# HTML5/CSS3 - Elemento Centralizado
+# HTML5/CSS3 - Input Customizado
 
-Centraliza qualquer elemento independente do dispositivo, elemento ou resolução.
-
+Modificando a tag input, dando maior custimização ao elemento.
 
 ## Arquivos
 
